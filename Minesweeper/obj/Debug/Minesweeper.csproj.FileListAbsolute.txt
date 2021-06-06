@@ -1,0 +1,9 @@
+C:\Users\Ajla\Desktop\c#Vezbanje\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\Ajla\Desktop\c#Vezbanje\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\Ajla\Desktop\c#Vezbanje\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\Ajla\Desktop\c#Vezbanje\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csprojResolveAssemblyReference.cache
+C:\Users\Ajla\Desktop\c#Vezbanje\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Form1.resources
+C:\Users\Ajla\Desktop\c#Vezbanje\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\Ajla\Desktop\c#Vezbanje\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.Cache
+C:\Users\Ajla\Desktop\c#Vezbanje\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\Ajla\Desktop\c#Vezbanje\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
